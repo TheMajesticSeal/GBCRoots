@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/Ray/Ray_Testing.umap",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/ThirdPerson/Blueprints/BP_Root.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/StarterContent/Audio/Collapse01.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/Ray/BP_Root.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/Ray/PullAactor_Curve.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HO/83YFACNWXPMA4CMJ76XIEH.uasset",
+				"H:/UE5 Project/GBCRoots/GBCRoots/Content/Ray/Ffffffffffffuck.umap",
 				"G:/Users/Alessandro/Documents/GBCRoots/GBCRoots/Content/StarterContent/Materials/M_AssetPlatform.uasset"
 			]
 		}
